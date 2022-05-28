@@ -1,6 +1,6 @@
 # class-168
 
-##we have to use img:-- pattern-pizza.png in camera for result.
+## we have to use img:-- pattern-pizza.png in camera for result.
 
 create a basic web based AR app using pattern markers.
 Hiro markers to display content over that, which is a standard marker.
